@@ -1,0 +1,27 @@
+body {
+  background: grey;
+  font-family: sans-serif;
+}
+
+.container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 30px 100px 0 100px; 
+}
+button{
+  border-radius: 20px;
+  padding: 5px;
+  cursor: pointer;
+}
+.button1{
+  background-color: rgb(200, 182, 182);
+}
+
+.button2 {
+  background-color: rgb(232, 221, 16);
+}
+
+.button3 {
+  background-color: rgb(212, 149, 65);
+}

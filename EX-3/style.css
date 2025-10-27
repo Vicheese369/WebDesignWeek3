@@ -1,0 +1,28 @@
+/* TODO */
+.button1 {
+  background-color: #fa83cd;
+  border-radius: 30px;
+  margin-right: 20px;
+  border: 5px solid rgb(150, 155, 220);
+  border-color: rgb(95, 99, 144);
+  width: 165px;
+  height: 70px;
+  font-size: 30px;
+  color: white;
+}
+.button2 {
+  background-color: #fa83cd;
+  border-radius: 30px;
+  margin-right: 20px;
+  border: 5px solid rgb(150, 155, 220);
+  border-color: rgb(95, 99, 144);
+  width: 165px;
+  height: 70px;
+  font-size: 30px;
+  color: white;
+}
+.button2:hover {
+  background-color: #af1344;
+  border: 5px solid rgba(222, 23, 23, 0.166); 
+  cursor: pointer;
+}
